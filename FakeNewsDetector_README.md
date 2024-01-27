@@ -39,31 +39,6 @@ The file structure is the following
 +-- *.py
 ```
 
-## Try It Out
-
-1. Clone the repo to your local machine-  
-`> git clone git://github.com/FakeNewsDetection/FakeBuster.git`  
-`> cd FakeBuster`
-
-2. Make sure you have all the dependencies installed-  
- * python 3.6+
- * numpy
- * tensorflow
- * gensim
- * pandas
- * keras
- * matplotlib
- * scikitplot
- * sklearn
- * nltk
-   * For nltk, we recommend typing `python.exe` in your command line which will take you to the Python interpretor.  
-     * Then, enter-
-       * `>>> import nltk`
-       * `>>> nltk.download()`
-    
-3. You're good to go now-  
-`> python svm.py`
-
 ## Comparing Accuracies of Models
 
 | Model                     | Accuracy     |
